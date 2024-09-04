@@ -1,4 +1,4 @@
-jupyter
+notebook
 pandas
 kaggle
 langchain
