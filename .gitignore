@@ -1,5 +1,4 @@
 kaggle.json
-Raghu Project Assignment for Intern (Neal).pdf
 Mistral-7B-v0.1/
 Lucidchart Flowcharts
 .ipynb_checkpoints
@@ -11,9 +10,6 @@ Lucidchart Flowcharts
 # Ignore .git/lfs folder (large file storage)
 .git/lfs/
 
-# Ignore dataset files
-data/
-*.json
 
 # Ignore IPython notebook checkpoints
 .ipynb_checkpoints/
