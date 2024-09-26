@@ -3,3 +3,25 @@ Raghu Project Assignment for Intern (Neal).pdf
 Mistral-7B-v0.1/
 Lucidchart Flowcharts
 data\News_Category_Dataset_v3.json
+.ipynb_checkpoints
+
+# Ignore all model files
+*.bin
+*.safetensors
+
+# Ignore .git/lfs folder (large file storage)
+.git/lfs/
+
+# Ignore dataset files
+data/
+*.json
+
+# Ignore IPython notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore PDFs and other non-source files
+*.pdf
+
+# Ignore temporary files
+*.tmp
+*.log
